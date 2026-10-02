@@ -3,7 +3,7 @@
 // @namespace    NicoToolbox
 // @version      1.13.1
 // @description  NicoToolbox mit allen Applets und Changelog in einer Datei.
-// @author       Nico
+// @author       Nico1
 // @match        https://game.rescue-operator.com/*
 // @updateURL    https://nico313de.github.io/NicosToolbox/NicoToolbox.user.js
 // @downloadURL  https://nico313de.github.io/NicosToolbox/NicoToolbox.user.js
